@@ -1,6 +1,6 @@
 # Clean UI
 
-Make WordPress prettier and your client happier. 
+Make the WordPress dashboard prettier and your client happier. 
 
 ## Installation
 
