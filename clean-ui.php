@@ -40,6 +40,7 @@ function clean_ui_toolbar_items($menu): void
     $menu->remove_node('updates'); // Updates
     $menu->remove_node('view-site'); // Visit Site
     $menu->remove_node('view'); // View
+    $menu->remove_node('widgets'); // Widgets
     $menu->remove_node('wp-logo'); // WordPress Logo
 }
 
