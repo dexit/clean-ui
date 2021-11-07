@@ -10,9 +10,11 @@
 /*
  * Plugin Name: Clean UI
  * Description: Take control over the administration dashboard.
- * Author: Vincent Klaiber
- * Author URI: https://vinkla.dev/
+ * Author: WordPlate
+ * Author URI: https://github.com/wordplate/wordplate
  * Version: 1.0.0
+ * Plugin URI: https://github.com/wordplate/clean-ui
+ * GitHub Plugin URI: wordplate/clean-ui
  */
 
 function clean_ui_menu_items(): void
