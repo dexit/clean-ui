@@ -10,7 +10,7 @@ This WordPress plugin makes the administration dashboard prettier and your clien
 
 ## Features
 
-All features are activated by default when the plugin is activated.
+All features are activated when the plugin is activated.
 
 - Add custom login form logo
 - Add custom dashboard favicon 
