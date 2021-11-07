@@ -6,9 +6,7 @@ This WordPress plugin makes the administration dashboard prettier and your clien
 
 ## Installation
 
-[Download](https://github.com/wordplate/clean-ui/archive/main.zip) the repository, put the plugin into your project's plugin directory and edit the `clean-ui.php` file to your liking.
-
-This plugin can't be published to Packagist and installed using Composer since you need to edit the plugin.
+[Download](https://github.com/wordplate/clean-ui/archive/main.zip) the repository, put the plugin into your project's plugin directory and edit the `clean-ui.php` file to your liking. This plugin can't be published to Packagist and installed using Composer since you need to edit the plugin.
 
 ## Features
 
