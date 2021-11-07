@@ -1,6 +1,8 @@
 # Clean UI
 
-Take control over the administration dashboard. Make the WordPress dashboard prettier and your client happier. 
+> Take control over the administration dashboard.
+
+This WordPress plugin makes the administration dashboard prettier and your client happier. It provides better UX experience for your clients in WordPress.
 
 ## Installation
 
