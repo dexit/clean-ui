@@ -1,3 +1,5 @@
+![Clean UI](https://user-images.githubusercontent.com/499192/143415951-b01e9498-5f18-44dd-9d4b-51fb2d479a22.png)
+
 # Clean UI
 
 > Take control over the administration dashboard.
