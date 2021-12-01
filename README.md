@@ -10,6 +10,12 @@ This WordPress plugin makes the administration dashboard prettier and your clien
 
 Download the repository, put the plugin into your project's plugin directory and edit the `clean-ui.php` file to your liking. This plugin can't be published to Packagist and installed using Composer since you need to edit the plugin.
 
+If you're using WordPlate you'll also need to unignore the plugin in the `public/.gitignore` file:
+
+```diff
++!mu-plugins/clean-ui
+```
+
 ## Features
 
 All features are activated when the plugin is activated.
