@@ -82,10 +82,3 @@ function clean_ui_logo(): void
 }
 
 add_action('login_head', 'clean_ui_logo');
-
-function clean_ui_favicon()
-{
-    return get_theme_file_uri('favicon.svg');
-}
-
-add_filter('get_site_icon_url', 'clean_ui_favicon');
